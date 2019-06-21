@@ -29,5 +29,11 @@
     "workbench.tree.indent": 20,
     "editor.tabSize": 2,
     "files.insertFinalNewline": true,
-    "files.trimTrailingWhitespace": true
+    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.shell.osx": "zsh",
+    "terminal.integrated.fontFamily": "'Operator Mono', 'Fira Mono for Powerline'",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true
 }
