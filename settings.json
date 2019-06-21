@@ -1,0 +1,33 @@
+{
+    "editor.renderWhitespace": "all",
+    "workbench.editor.enablePreview": false,
+    "editor.fontFamily": "'Operator Mono', monospace",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    // "editor.multiCursorModifier": "ctrlCmd",
+    "files.trimFinalNewlines": true,
+    "window.zoomLevel": 0,
+    "window.title": "${activeEditorLong}${separator}${rootName}",
+    "workbench.statusBar.feedback.visible": false,
+    "[markdown]": {
+        // "editor.wordWrap": "off",
+        "files.trimTrailingWhitespace": false
+    },
+    "gitlens.defaultDateStyle": "absolute",
+    "gitlens.showWhatsNewAfterUpgrades": false,
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "workbench.startupEditor": "none",
+    "extensions.ignoreRecommendations": false,
+    "workbench.tree.indent": 20,
+    "editor.tabSize": 2,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true
+}

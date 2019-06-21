@@ -1,0 +1,22 @@
+[
+    {
+        "key": "cmd+k cmd+u",
+        "command": "editor.action.transformToUppercase",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "cmd+k cmd+l",
+        "command": "editor.action.transformToLowercase",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "cmd+[Semicolon]",
+        "command": "editor.action.outdentLines",
+        "when": "editorTextFocus && !editorReadonly && !editorTabMovesFocus"
+    },
+    {
+        "key": "cmd+[Quote]",
+        "command": "editor.action.indentLines",
+        "when": "editorTextFocus && !editorReadonly && !editorTabMovesFocus"
+    }
+]
