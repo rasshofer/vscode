@@ -38,6 +38,7 @@
     "prettier.requireConfig": true,
     "prettier.disableLanguages": [
         "markdown"
-    ]
+    ],
+    "vsicons.dontShowNewVersionMessage": true,
 
 }
