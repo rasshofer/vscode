@@ -27,6 +27,7 @@
     "workbench.startupEditor": "none",
     "extensions.ignoreRecommendations": false,
     "workbench.tree.indent": 20,
+    "workbench.tree.renderIndentGuides": "always",
     "editor.tabSize": 2,
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
