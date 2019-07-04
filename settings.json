@@ -32,11 +32,11 @@
     "files.trimTrailingWhitespace": true,
     "terminal.integrated.shell.osx": "zsh",
     "terminal.integrated.fontFamily": "'Operator Mono', 'Fira Mono for Powerline'",
-    "[typescript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true,
+    "prettier.requireConfig": true,
     "prettier.disableLanguages": [
         "markdown"
     ]
+
 }
