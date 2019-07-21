@@ -18,5 +18,10 @@
         "key": "cmd+[Quote]",
         "command": "editor.action.indentLines",
         "when": "editorTextFocus && !editorReadonly && !editorTabMovesFocus"
+    },
+    {
+        "key": "shift+cmd+c",
+        "command": "-workbench.action.terminal.openNativeConsole",
+        "when": "!terminalFocus"
     }
 ]
