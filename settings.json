@@ -40,5 +40,6 @@
         "markdown"
     ],
     "vsicons.dontShowNewVersionMessage": true,
+    "workbench.iconTheme": "material-icon-theme",
 
 }

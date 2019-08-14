@@ -1,5 +1,6 @@
 #!/bin/bash
 code --install-extension akamud.vscode-theme-onedark
+code --install-extension bmewburn.vscode-intelephense-client
 code --install-extension boopathi.eskip
 code --install-extension bungcip.better-toml
 code --install-extension CoenraadS.bracket-pair-colorizer
@@ -16,11 +17,12 @@ code --install-extension GrapeCity.gc-excelviewer
 code --install-extension HookyQR.beautify
 code --install-extension mikestead.dotenv
 code --install-extension mrmlnc.vscode-apache
+code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-vscode.Go
 code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension msjsdiag.debugger-for-chrome
 code --install-extension octref.vetur
-code --install-extension PeterJausovec.vscode-docker
+code --install-extension PKief.material-icon-theme
 code --install-extension sdras.vue-vscode-snippets
 code --install-extension tlent.jest-snapshot-language-support
 code --install-extension VisualStudioExptTeam.vscodeintellicode
